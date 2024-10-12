@@ -230,6 +230,18 @@ namespace Laboratorio6
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
         }
-       
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbCantidad_KeyPress_1(object sender, KeyPressEventArgs e)
+        {
+            if(string.IsNullOrWhiteSpace(tbCantidad.Text))
+            {
+                MessageBox.Show("Debe llenar todos los campos.");
+            }
+        }
     }
 }
