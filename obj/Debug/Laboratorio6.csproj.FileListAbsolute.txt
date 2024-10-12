@@ -1,0 +1,10 @@
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.csproj.AssemblyReference.cache
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.Form1.resources
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.Properties.Resources.resources
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.csproj.GenerateResource.cache
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.csproj.CoreCompileInputs.cache
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\bin\Debug\Laboratorio6.exe.config
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\bin\Debug\Laboratorio6.exe
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\bin\Debug\Laboratorio6.pdb
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.exe
+C:\Users\PAOLAPATRICIO\source\repos\Laboratorio6\obj\Debug\Laboratorio6.pdb
